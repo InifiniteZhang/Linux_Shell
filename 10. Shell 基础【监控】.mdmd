@@ -1,0 +1,17 @@
+### Linux Shell 基础【watch、free、mpstat、vmstat、iostat、pidstat、df、du】（八）【https://www.cnblogs.com/cppb/p/6216008.html】
+
+##### watch -- Linux 实时监控命令
+
+##### free -- 查看当前系统内存使用状况
+
+##### mpstat -- CPU 实时监控工具
+
+##### vmstat -- 虚拟内存实时监控工具
+
+##### iostat -- 设备 I/O 负载的实时监控工具
+
+##### pidstat -- 当前运行进程的实时监控工具
+
+##### df -- 磁盘空间使用状况
+
+##### du -- 评估磁盘使用状况
