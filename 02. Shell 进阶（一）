@@ -1,0 +1,89 @@
+### Shell 进阶一【https://www.cnblogs.com/cppb/p/5745135.html】
+
+##### 命令跟踪
+
+- sh -x ./xxx.sh
+
+```
+-x 选项打开脚本的执行跟踪功能
+```
+
+- set -x && set +x
+
+```
+set -x：
+    打开跟踪
+echo 1st echo：
+    将被打印输出的 Shell 命令
+set +x：
+    该Shell命令也将被打印输出
+echo 2nd echo：
+    该Shell命令将不再被打印输出
+
+```
+
+##### cut 命令【字符选定】
+
+- cut -c
+
+- cut -d
+
+- cut -f
+
+
+##### 计算行数 && 字数 && 字符串
+
+- wc -l
+
+- wc -w
+
+- wc -c
+
+##### 提取开头 && 结尾
+
+- head
+
+- tail
+
+##### grep 详解
+
+- grep 退出状态
+
+- grep 应用正则表达式
+
+- grep 扩展 -- egrep && grep -E
+
+- grep 常用命令行选项
+
+##### sed -- 流编辑器
+
+- sed 命令 && 选项
+
+- 替换标记
+
+
+##### awk 实用功能
+
+- awk 基本格式
+
+- awk 格式输出
+
+- awk 中的记录和域
+
+- 匹配操作符
+
+- awk 的基本应用实例
+
+##### awk 表达式功能
+
+- 比较表达式
+
+- 条件表达式
+
+- 数学表达式
+
+- 逻辑表达式
+
+- 范围模板
+
+- 赋值符号
